@@ -2,7 +2,7 @@
 
 # **Project Description**
 
-In this project, I conducted an in-depth exploration of an E-commerce Customer Behavior and Purchase Dataset using Python within Jupyter Notebooks. Leveraging the powerful capabilities of Pandas and Pandas AI.I uncoverd insights, patterns, and trends within the data, ultimately aiming to gain a comprehensive understanding of customer behavior in the E-commerce domain.
+In this project, I conducted an in-depth exploration of an E-commerce Customer Behavior and Purchase Dataset using Python within Jupyter Notebooks. Leveraging the powerful capabilities of Pandas and Pandas AI (specifically its large language model).I uncoverd insights, patterns, and trends within the data, ultimately aiming to gain a comprehensive understanding of customer behavior in the E-commerce domain.
 
 ## **About Dataset**
 The "E-commerce Customer Behavior and Purchase Dataset" is a synthetic dataset generated using the Faker Python library.
