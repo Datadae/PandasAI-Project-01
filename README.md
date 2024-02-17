@@ -14,12 +14,6 @@ I have used it with the intention of research and give full credit to Kaggle.com
 ## **Roadmap**
 1. Installed the required list of packages.
 2. Imported required libraries into python environment namely "Pandas and Pandas AI" 
-3. Explored the dataset and performed the required transformation(changed data type and extracted D/M/Y into new columns
-4. 
-5. 
-6.
-Performing transformationa and cleaning (ETL) operations on the datset in power query editor.
-Created data model by building relationship between Dimension and fact tables.
-Using DAX to create necessary measure.
-Created visualization using various charts.
-Prepared PowerBi report.
+3. Explored the dataset and performed the required transformation(changed data type and extracted D/M/Y into new columns).
+4. Performed various analysis like (Payment analysis, Purchase Behavior Analysis, Return Behavior Analysis and Loyal and Retention Analysis) 
+5. Created visualization using various charts.
